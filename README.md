@@ -1,7 +1,10 @@
-# Introduction
+# SPAppPartResize
 A simple helper function to resize SharePoint app part.
 
-# Usage
+## Usage
 ```js
 SPAppPartResize.resize(width, height);
 ```
+
+## License
+MIT.
